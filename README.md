@@ -12,9 +12,8 @@
 ![abc](./image/01.png)
 2. 燒錄MicroPython韌體  
 * 選擇工具>>選項>>直譯器，選擇MicroPython (Raspberry Pi Pico)，點擊安裝或更新韌體
-* 按住Pico BOOTSEL按鍵，與電腦連接，出現目標設備型號後選擇安裝
-
 ![abc](./image/03.png)
+* 按住Pico BOOTSEL按鍵，與電腦連接，出現目標設備型號後選擇安裝
 ![abc](./image/02.png)
 ## 安裝相關 Library
 #### micropython-am7020 library可從[這裡](https://pypi.org/project/micropython-am7020/)取得  
